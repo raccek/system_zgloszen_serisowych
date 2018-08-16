@@ -2,7 +2,7 @@
 
 	echo '
 		<center>
-		<h6>2018 AleSerwis </h6>
+		<h6>2018 HiR Soft </h6>
 		</center>
 		</body>
 
